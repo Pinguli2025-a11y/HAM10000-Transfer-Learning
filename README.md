@@ -1,4 +1,4 @@
-# Skin Lesion Classification – Deep Learning Project
+# Skin Lesion Classification – Research on Multi-Classification and Model Generalization of Medical Images Based on Transfer Learning
 
 This repository contains the complete implementation for the **Introduction to Deep Learning with Python** group project.  
 We compare two families of models on the **HAM10000** (ISIC 2018 Task 3) dataset:
